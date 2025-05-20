@@ -20,6 +20,7 @@ namespace SomePrj
         {
             InitializeComponent();
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
         }
     }
 }
