@@ -19,6 +19,8 @@ namespace SomePrj
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
         }
     }
 }
